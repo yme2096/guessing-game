@@ -1,7 +1,7 @@
 # Guessing Game Project
 
 ## Date and Time:
-(Write current date & time manually)
+Mon Mar 24 15:30:00 IST 2026
 
 ## Number of lines in guessinggame.sh:
-(Count using notepad or approximate like 25)
+25
